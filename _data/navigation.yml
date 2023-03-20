@@ -11,20 +11,16 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
-      section: services
-    - title: "Portfolio"
-      section: portfolio
-    - title: "About"
-      section: about
+    - title: "Details"
+      section: details
+    - title: "Registeration"
+      url: https://docs.google.com/forms/d/e/1FAIpQLSeUDN5M3ymX8vIStBZUuGXhZuVgD5pJzUekFmgJzca8YFYqQw/viewform?usp=sf_link
+    - title: "Organizers"
+      section: team
     - title: "Timeline"
       section: timeline
-    - title: "Team"
+    - title: "Submit Result"
       section: team
-    - title: "Contact"
-      section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
