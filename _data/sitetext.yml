@@ -135,7 +135,7 @@ en: &DEFAULT_EN
       - name: "Professor Xinyu Wang"
         role: "University of Michigan, USA."
         email: "xwangsd@umich.edu"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/xinyu.png
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in     
