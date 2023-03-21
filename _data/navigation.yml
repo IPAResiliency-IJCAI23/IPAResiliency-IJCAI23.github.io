@@ -15,10 +15,10 @@ en: &DEFAULT_EN
       section: details
     - title: "Registeration"
       url: https://docs.google.com/forms/d/e/1FAIpQLSeUDN5M3ymX8vIStBZUuGXhZuVgD5pJzUekFmgJzca8YFYqQw/viewform?usp=sf_link
-    - title: "Organizers"
-      section: team
     - title: "Timeline"
       section: timeline
+    - title: "Organizers"
+      section: team
     - title: "Submit Result"
       section: team
 en-US:

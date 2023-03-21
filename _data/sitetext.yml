@@ -11,7 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    # title: Welcome to the IPA competition
+    title: "Will your bot be the  ultimate survivor ?"
+    subtitle: "Join our competition and test your bot's self-healing abilities"
     text: 
     # button: Tell Me More
     buttonlink: "#services"
@@ -49,7 +50,7 @@ en: &DEFAULT_EN
       - title: "Call for participation"
         year: "April 2, 2023"
         desc: ""
-        image: assets/img/timeline/participate.jpg
+        image: assets/img/timeline/part2.jpg
         alt:
       - title: "Deadline for registration"
         year: "April 20, 2023"
