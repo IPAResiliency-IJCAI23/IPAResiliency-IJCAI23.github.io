@@ -111,7 +111,7 @@ en: &DEFAULT_EN
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Segev Shlomov, PhD"
+      - name: "Dr. Segev Shlomov"
         role: "AI research scientist @ IBM Research"
         email: "Segev.Shlomov1@ibm.com"
         image: assets/img/team/segev.png
@@ -125,7 +125,20 @@ en: &DEFAULT_EN
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-
+      - name: "Full professor Ronen Brafman"
+        role: "Ben-Gurion University, Israel"
+        email: "brafman@bgu.ac.il"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in     
+      - name: "Professor Xinyu Wang"
+        role: "University of Michigan, USA."
+        email: "xwangsd@umich.edu"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in     
   contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
