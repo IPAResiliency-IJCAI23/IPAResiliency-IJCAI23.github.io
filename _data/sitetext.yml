@@ -128,7 +128,7 @@ en: &DEFAULT_EN
       - name: "Full professor Ronen Brafman"
         role: "Ben-Gurion University, Israel"
         email: "brafman@bgu.ac.il"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/ronen.png
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in     
