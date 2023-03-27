@@ -104,13 +104,6 @@ en: &DEFAULT_EN
     # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Avi Yaeli"
-        role: "Research scientist @ IBM Research"
-        email: aviy@il.ibm.com
-        image: assets/img/team/avi.png
-        social:
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
       - name: "Dr. Segev Shlomov"
         role: "AI research scientist @ IBM Research"
         email: "Segev.Shlomov1@ibm.com"
@@ -118,7 +111,7 @@ en: &DEFAULT_EN
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Sami Marreed"
+      - name: "Mr. Sami Marreed"
         role: "Research engineer"
         email: "samim@ibm.com"
         image: assets/img/team/sami.png
@@ -136,6 +129,13 @@ en: &DEFAULT_EN
         role: "University of Michigan, USA."
         email: "xwangsd@umich.edu"
         image: assets/img/team/xinyu.png
+        social:
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Mr. Avi Yaeli"
+        role: "Research scientist @ IBM Research"
+        email: aviy@il.ibm.com
+        image: assets/img/team/avi.png
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in     

@@ -20,7 +20,8 @@ en: &DEFAULT_EN
     - title: "Organizers"
       section: team
     - title: "Submit Result"
-      section: team
+      url: https://docs.google.com/forms/d/e/1FAIpQLSdRLQqWq1wJHW4SyGjlJT_9K3emE9l1SamWAUrsFiBe3TVD4Q/viewform?usp=sf_link
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
