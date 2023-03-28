@@ -22,16 +22,20 @@ en: &DEFAULT_EN
     text: "Competition tasks and different levels"
     section: details
     list:
-      - title: "Basic"
+      - title: "Beginner"
+        task_link: "http://ec2-44-195-80-199.compute-1.amazonaws.com:5000/task1"
         desc: " Create bot that fills out a form with changing field positions and labels based on the provided Excel spreadsheet"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Advanced"
-        desc: "Similar to Basic, but the labels are positioned arbitrarily on the top, bottom, or inside their corresponding text input fields."
+        task_link: "http://ec2-44-195-80-199.compute-1.amazonaws.com:5000/task2"
+        desc: "Similar to Beginner, but the labels are positioned arbitrarily on the top, bottom, or inside their corresponding text input fields."
         icon: fas fa-laptop
       - title: "Pro"
+        task_link: "http://ec2-44-195-80-199.compute-1.amazonaws.com:5000/task3"
         desc: "Create a bot that is capable of looking up users in a web search box, adding new users if they do not exist, and removing existing users if they do."
         icon: fab fa-markdown
       - title: "Pro Max"
+        task_link: "http://ec2-44-195-80-199.compute-1.amazonaws.com:5000/task4"
         desc: "Similar to Pro, but with the addition of a 'Reason' field that changes its underlying implementation and values each time the form is submitted."
         icon: fab fa-markdown
   portfolio:
@@ -118,14 +122,14 @@ en: &DEFAULT_EN
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Full professor Ronen Brafman"
+      - name: "Full Prof. Ronen Brafman"
         role: "Ben-Gurion University, Israel"
         email: "brafman@bgu.ac.il"
         image: assets/img/team/ronen.png
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in     
-      - name: "Professor Xinyu Wang"
+      - name: "Prof. Xinyu Wang"
         role: "University of Michigan, USA."
         email: "xwangsd@umich.edu"
         image: assets/img/team/xinyu.png
