@@ -1,4 +1,21 @@
 // Styling for the masthead
+
+.sticky-footer p{
+  margin-top: 10px;
+}
+
+.sticky-footer{
+  background-color:rgb(242, 251, 255);
+  border-top: 1px solid rgb(202, 202, 202);
+  position: fixed;
+  opacity: 1;
+  bottom: 0;
+  font-size: 1.4rem;
+  z-index: 999999;
+  width: 100%;
+
+}
+
 header.masthead {
   text-align: center;
   color: #fec503;
