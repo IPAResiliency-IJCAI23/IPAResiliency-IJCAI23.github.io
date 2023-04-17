@@ -107,7 +107,7 @@ en: &DEFAULT_EN
     text: ""
     # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
-    contact_email: "tbd@tbd.com"
+    contact_email: "segev.shlomov1@ibm.com"
     people:
       - name: "Dr. Segev Shlomov"
         role: "AI research scientist @ IBM Research"
