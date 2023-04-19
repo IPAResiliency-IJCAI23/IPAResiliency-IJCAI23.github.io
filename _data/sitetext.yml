@@ -28,7 +28,13 @@ each row constitutes the set of fields needed for a single user
 entry. Each row will include the following columns: First
 name, Username, Contact Number, Manager, Email, Job Description,
 Level, and Leave Reason. This dataset will be used
-to facilitate all 4 tasks."
+to facilitate all 4 tasks.
+
+Teams must register for the competition. The solutions must be submitted by the
+specified deadline. Submission will include automatic measurement and scoring and the team’s description of
+the solution approach. Top-performing solutions will be evaluated by a panel of judges. The winning team will be announced
+at IJCAI in a special event at the the Future of No-Code Digital Apprentices workshop.
+"
     title: "Tasks"
     text: "* Click on the task title in order to access the task."
     section: details
